@@ -40,7 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IDataContext.cs" />
     <Compile Include="IEntity.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="IService.cs" />
