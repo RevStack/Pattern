@@ -1,6 +1,6 @@
 {
   "name": "RevStack.Pattern",
-  "version": "0.9.1",
+  "version": "0.9.3",
   "description": "C# Design Pattern interface class library",
   "main": "RevStack.Pattern.sin",
   "scripts": {
