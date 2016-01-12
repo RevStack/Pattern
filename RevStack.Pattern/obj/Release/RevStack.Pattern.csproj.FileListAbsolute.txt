@@ -13,3 +13,8 @@
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.Pattern\RevStack.Pattern\bin\Release\Newtonsoft.Json.xml
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.Pattern\RevStack.Pattern\bin\Release\MiscUtil.pdb
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.Pattern\RevStack.Pattern\bin\Release\MiscUtil.xml
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\bin\Release\RevStack.Pattern.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\bin\Release\RevStack.Pattern.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\obj\Release\RevStack.Pattern.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\obj\Release\RevStack.Pattern.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\obj\Release\RevStack.Pattern.pdb

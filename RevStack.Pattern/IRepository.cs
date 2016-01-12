@@ -12,6 +12,5 @@ namespace RevStack.Pattern
         TEntity Add(TEntity entity);
         TEntity Update(TEntity entity);
         void Delete(TEntity entity);
-        void Execute(string command);
     }
 }

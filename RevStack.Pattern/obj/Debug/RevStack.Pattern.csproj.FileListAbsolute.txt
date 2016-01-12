@@ -17,3 +17,4 @@
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\bin\Debug\RevStack.Pattern.pdb
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\obj\Debug\RevStack.Pattern.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\obj\Debug\RevStack.Pattern.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Pattern\RevStack.Pattern\obj\Debug\RevStack.Pattern.csprojResolveAssemblyReference.cache
