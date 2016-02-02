@@ -2,7 +2,7 @@
   "name": "RevStack.Pattern",
   "version": "0.9.4",
   "description": "C# Design Pattern interface class library",
-  "main": "RevStack.Pattern.sin",
+  "main": "RevStack.Pattern.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
