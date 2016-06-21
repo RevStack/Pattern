@@ -9,6 +9,7 @@ namespace RevStack.Pattern
     public class Service<TEntity, TKey> : IService<TEntity, TKey> where TEntity : class, IEntity<TKey>
     {
         protected readonly IRepository<TEntity, TKey> _repository;
+
         public Service(IRepository<TEntity, TKey> repository)
         {
             _repository = repository;
