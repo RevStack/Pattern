@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.Pattern</id>
+    <version>1.0</version>
+    <title>RevStack.Pattern</title>
+    <authors>MIS Interactive</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/Pattern/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/Pattern.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RevStack Design Pattern class library</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>RevStack Repository Pattern</tags>
+  </metadata>
+</package>
