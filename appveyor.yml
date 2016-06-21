@@ -4,6 +4,11 @@ build:
     parallel: true
     publish_nuget: true
     verbosity: minimal
+    
+nuget:
+  account_feed: true
+  project_feed: true
+  disable_publish_on_pr: true
 
 assembly_info:
     assembly_version: '{version}'
