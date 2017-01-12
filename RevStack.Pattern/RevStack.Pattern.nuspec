@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>RevStack.Pattern</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <title>RevStack.Pattern</title>
     <authors>Scott Francis, David Sheets, MIS Interactive</authors>
     <owners>D. Sheets, S. Francis</owners>
@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/RevStack/Pattern.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>RevStack Design Pattern class library</description>
-    <releaseNotes>Initial release.</releaseNotes>
+    <releaseNotes>Second release.</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>RevStack Repository Pattern</tags>
   </metadata>

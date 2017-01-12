@@ -16,3 +16,4 @@ Mono/
 .vs/
 *.lock.json
 packages/
+nuget.exe
